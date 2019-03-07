@@ -1,0 +1,33 @@
+{
+  "name": "png2svg-cli",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganFievez/png2svg-cli.git"
+  },
+  "keywords": [
+    "png2svg",
+    "png2svg-cli",
+    "png",
+    "svg",
+    "pixel",
+    "cli"
+  ],
+  "author": "LoganFievez",
+  "license": "MIT",
+  "bin": {
+    "png2svg-cli": "bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/LoganFievez/png2svg-cli/issues"
+  },
+  "homepage": "https://github.com/LoganFievez/png2svg-cli#readme",
+  "dependencies": {
+    "pixel-art-2-svg": "^0.1.5",
+    "shelljs": "^0.8.3"
+  }
+}
