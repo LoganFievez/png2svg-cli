@@ -1,4 +1,4 @@
-# png2svg
+# png2svg-cli
 
 ## Installation
 
