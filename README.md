@@ -3,19 +3,33 @@
 ## Installation
 
 ```batch
-npm i -g svg2png-cli
+npm i -g png2svg-cli
 ```
 
 ## How to use!
 
 ```batch
-svg2png-cli [...list-of-file.png]
+png2svg-cli [...list-of-file.png]
 ```
 
 ### Example
 
+- Single file
+
 ```batch
-svg2png-cli test01.png test02.png
+png2svg-cli test01.png
+```
+
+- Multiple files
+
+```batch
+png2svg-cli test01.png test02.png
+```
+
+- All files
+
+```batch
+png2svg-cli *.svg
 ```
 
 ## Notes

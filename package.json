@@ -15,7 +15,9 @@
     "png",
     "svg",
     "pixel",
-    "cli"
+    "cli",
+	"pixelart",
+	"pixel-art"
   ],
   "author": "LoganFievez",
   "license": "MIT",
